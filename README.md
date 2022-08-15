@@ -19,7 +19,8 @@ Example input file: ```
 
 Output is in format ```IP:Port,Version,Online/Max Players,MOTD```. (see exampleOUT.csv)
 
-Example output file: ```
+Example output file: 
+```
 1.1.1.1:25565,1.19,12/20,A Minecraft Server
 2.2.2.2:25565,1.19,25/30,A Minecraft Server
 ```
