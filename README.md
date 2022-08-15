@@ -18,7 +18,7 @@ Example input file:
 2.2.2.2:25565
 ```
 
-Output is in format ```IP:Port,Version,Online/Max Players,MOTD```. (see exampleOUT.csv)
+Output is in format ```IP:Port,Version,Online/Max Players,MOTD```.
 
 Example output file: 
 ```
