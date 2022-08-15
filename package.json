@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Finds minecraft servers in list of ips and ports",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "dependencies": {
     "minecraft-status": "^1.1.0",
     "commandos": "^0.10.1"
@@ -14,5 +11,5 @@
     "type": "git",
     "url": "https://github.com/2Peti/mcseeker/"
   },
-  "author": "2Peti",
+  "author": "2Peti"
 }
