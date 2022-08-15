@@ -12,7 +12,8 @@ node index.js --in inputfile.txt --out output.csv
 ```
 Input file should be in format ```IP:Port```.
 
-Example input file: ```
+Example input file: 
+```
 1.1.1.1:25565
 2.2.2.2:25565
 ```
