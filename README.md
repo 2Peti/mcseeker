@@ -2,8 +2,11 @@
 
 MCSeeker finds minecraft servers in list of IPs and Ports.
 
-MCSeeker with Masscan on Google Colab:
+MCSeeker in Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/2Peti/mcseeker/blob/main/colab.ipynb)
+
+For masscan in Google Colab checkout:
+[masscan-colab](https://github.com/2Peti/masscan-colab)
 
 ## Usage
 
