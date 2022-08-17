@@ -4,7 +4,7 @@
   "description": "Finds minecraft servers in list of ips and ports",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watchAll --verbose"
+    "test": "jest --verbose"
   },
   "dependencies": {
     "commandos": "^0.10.1",
