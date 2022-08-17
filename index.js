@@ -31,7 +31,7 @@ async function main() {
 }
 async function printProgress(){
   await new Promise(resolve => setTimeout(resolve, 1000))
-  for (var x = 0; x < total; x++) {
+  for (var x = 0; x < total+1; x++) {
     process.stdout.cursorTo(0);
     process.stdout.write(`Found ${servers}/${total} servers`);
     await new Promise(resolve => setTimeout(resolve, 1000))
