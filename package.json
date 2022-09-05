@@ -17,6 +17,6 @@
   },
   "author": "2Peti",
   "devDependencies": {
-    "@types/jest": "^28.1.7"
+    "@types/jest": "^29.0.0"
   }
 }
